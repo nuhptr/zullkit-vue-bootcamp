@@ -1,6 +1,12 @@
 # VUE ZULLKIT README
 
 - install vue 3
-  #### npm init vue@latest
-  #### npm install
-  #### npm run dev
+  ```sh
+  npm init vue@latest
+  ```
+  ```sh
+  npm install
+  ```
+  ```sh
+  npm run dev
+  ```
