@@ -4,15 +4,13 @@ import { RouterLink, RouterView } from "vue-router";
 
 <template>
   <!-- Navbar -->
-  <nav
-    class="bg-white border-gray-200 px-2 sm:px-4 py-2.5 rounded dark:bg-gray-800"
-  >
+  <nav class="bg-white border-gray-200 px-2 sm:px-4 py-2.5 rounded">
     <div
       class="container flex flex-wrap items-center justify-between mx-auto my-2"
     >
       <a href="index.html" class="flex items-center">
         <img
-          src="./assets/img/logo.svg"
+          src="@/assets/img/logo.svg"
           class="h-8 ml-3 sm:ml-0 sm:h-8"
           alt="Flowbite Logo"
         />
