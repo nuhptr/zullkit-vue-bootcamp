@@ -5,35 +5,25 @@
     <!-- Hero -->
     <div class="relative overflow-hidden bg-white">
       <!-- Content -->
-      <div class="mx-auto max-w-7xl">
+      <div class="flex items-center mx-auto max-w-7xl">
         <div
-          class="z-10 px-5 pb-8 bg-white xl:pl-20 lg:pl-16 sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32"
-        >
-          <main
-            class="mx-auto ml-10 mt-10 max-w-7xl sm:mt-12 md:mt-16 lg:mt-20 xl:mt-36"
-          >
+          class="z-10 px-5 pb-8 bg-white xl:pl-20 lg:pl-16 sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32">
+          <main class="mx-auto mt-10 max-w-7xl sm:mt-12 md:mt-16 lg:mt-20 xl:mt-36 lg:ml-5">
             <div class="sm:text-center lg:text-left">
-              <h1
-                class="text-3xl font-bold leading-normal tracking-tight text-gray-900 sm:text-4xl md:text-5xl"
-              >
+              <h1 class="text-3xl font-bold leading-normal tracking-tight text-gray-900 sm:text-4xl md:text-5xl">
                 <span class="block lg:mb-2">Design Better &</span>
                 <span class="block">Faster Than Before.</span>
               </h1>
               <p
-                class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0"
-              >
+                class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
                 Accelerate your work with our millions
                 <span class="block lg:mb-1"></span> of ready-to-use design
                 projects.
               </p>
-              <div
-                class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start"
-              >
+              <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div class="rounded-full">
-                  <a
-                    href="#"
-                    class="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-white bg-indigo-600 border border-transparent rounded-full hover:bg-indigo-700 md:py-2 md:text-lg md:px-10 hover:shadow"
-                  >
+                  <a href="#"
+                    class="flex items-center justify-center w-full px-8 py-3 text-base font-medium text-white bg-indigo-600 border border-transparent rounded-full hover:bg-indigo-700 md:py-2 md:text-lg md:px-10 hover:shadow">
                     Browse Now
                   </a>
                 </div>
@@ -44,11 +34,7 @@
       </div>
       <!-- Image -->
       <div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
-        <img
-          class="w-full lg:w-3/4 lg:mt-8"
-          src="@/assets/img/hero-image.png"
-          alt=""
-        />
+        <img class="w-full lg:w-3/4 lg:mt-8" src="@/assets/img/hero-image.png" alt="" />
       </div>
     </div>
 
@@ -63,20 +49,13 @@
           <div class="overflow-hidden border border-gray-200 rounded-xl">
             <a href="details.html">
               <div class="m-4 overflow-hidden rounded-xl">
-                <img
-                  alt="Placeholder"
-                  class="block w-full h-auto"
-                  src="@/assets/img/categories-1.jpg"
-                />
+                <img alt="Placeholder" class="block w-full h-auto" src="@/assets/img/categories-1.jpg" />
               </div>
             </a>
 
             <header class="px-4 mb-4 leading-tight">
               <h1 class="text-lg">
-                <a
-                  class="font-semibold text-black no-underline hover:underline"
-                  href="#"
-                >
+                <a class="font-semibold text-black no-underline hover:underline" href="#">
                   Mobile UI Kit
                 </a>
               </h1>
@@ -92,20 +71,13 @@
           <div class="overflow-hidden border border-gray-200 rounded-xl">
             <a href="details.html">
               <div class="m-4 overflow-hidden rounded-xl">
-                <img
-                  alt="Placeholder"
-                  class="block w-full h-auto"
-                  src="@/assets/img/categories-2.jpg"
-                />
+                <img alt="Placeholder" class="block w-full h-auto" src="@/assets/img/categories-2.jpg" />
               </div>
             </a>
 
             <header class="px-4 mb-4 leading-tight">
               <h1 class="text-lg">
-                <a
-                  class="font-semibold text-black no-underline hover:underline"
-                  href="#"
-                >
+                <a class="font-semibold text-black no-underline hover:underline" href="#">
                   Fonts
                 </a>
               </h1>
@@ -121,20 +93,13 @@
           <div class="overflow-hidden border border-gray-200 rounded-xl">
             <a href="details.html">
               <div class="m-4 overflow-hidden rounded-xl">
-                <img
-                  alt="Placeholder"
-                  class="block w-full h-auto"
-                  src="@/assets/img/categories-3.jpg"
-                />
+                <img alt="Placeholder" class="block w-full h-auto" src="@/assets/img/categories-3.jpg" />
               </div>
             </a>
 
             <header class="px-4 mb-4 leading-tight">
               <h1 class="text-lg">
-                <a
-                  class="font-semibold text-black no-underline hover:underline"
-                  href="#"
-                >
+                <a class="font-semibold text-black no-underline hover:underline" href="#">
                   Icon Set
                 </a>
               </h1>
@@ -150,20 +115,13 @@
           <div class="overflow-hidden border border-gray-200 rounded-xl">
             <a href="#">
               <div class="m-4 overflow-hidden rounded-xl">
-                <img
-                  alt="Placeholder"
-                  class="block w-full h-auto"
-                  src="@/assets/img/categories-4.jpg"
-                />
+                <img alt="Placeholder" class="block w-full h-auto" src="@/assets/img/categories-4.jpg" />
               </div>
             </a>
 
             <header class="px-4 mb-4 leading-tight">
               <h1 class="text-lg">
-                <a
-                  class="font-semibold text-black no-underline hover:underline"
-                  href="#"
-                >
+                <a class="font-semibold text-black no-underline hover:underline" href="#">
                   Website UI Kit
                 </a>
               </h1>
@@ -185,20 +143,13 @@
           <div class="overflow-hidden border border-gray-200 rounded-xl">
             <a href="#">
               <div class="m-4 overflow-hidden rounded-xl">
-                <img
-                  alt="Placeholder"
-                  class="block w-full h-auto"
-                  src="@/assets/img/items-1.jpg"
-                />
+                <img alt="Placeholder" class="block w-full h-auto" src="@/assets/img/items-1.jpg" />
               </div>
             </a>
 
             <header class="px-4 mb-4 leading-tight">
               <h1 class="text-lg">
-                <a
-                  class="font-semibold text-black no-underline hover:underline"
-                  href="#"
-                >
+                <a class="font-semibold text-black no-underline hover:underline" href="#">
                   Mobile UI Kit
                 </a>
               </h1>
@@ -213,20 +164,13 @@
           <div class="overflow-hidden border border-gray-200 rounded-xl">
             <a href="details.html">
               <div class="m-4 overflow-hidden rounded-xl">
-                <img
-                  alt="Placeholder"
-                  class="block w-full h-auto"
-                  src="@/assets/img/items-2.jpg"
-                />
+                <img alt="Placeholder" class="block w-full h-auto" src="@/assets/img/items-2.jpg" />
               </div>
             </a>
 
             <header class="px-4 mb-4 leading-tight">
               <h1 class="text-lg">
-                <a
-                  class="font-semibold text-black no-underline hover:underline"
-                  href="#"
-                >
+                <a class="font-semibold text-black no-underline hover:underline" href="#">
                   Online Doctor Consultation
                 </a>
               </h1>
@@ -241,20 +185,13 @@
           <div class="overflow-hidden border border-gray-200 rounded-xl">
             <a href="details.html">
               <div class="m-4 overflow-hidden rounded-xl">
-                <img
-                  alt="Placeholder"
-                  class="block w-full h-auto"
-                  src="@/assets/img/items-3.jpg"
-                />
+                <img alt="Placeholder" class="block w-full h-auto" src="@/assets/img/items-3.jpg" />
               </div>
             </a>
 
             <header class="px-4 mb-4 leading-tight">
               <h1 class="text-lg">
-                <a
-                  class="font-semibold text-black no-underline hover:underline"
-                  href="#"
-                >
+                <a class="font-semibold text-black no-underline hover:underline" href="#">
                   Banking Crypto
                 </a>
               </h1>
@@ -269,4 +206,6 @@
   </main>
 </template>
 
-<style></style>
+<style>
+
+</style>
